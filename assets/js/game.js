@@ -10,7 +10,6 @@ console.log(playerName, playerAttack, playerHealth);
 var enemyName = "Roborto";
 var enemyHealth = 50;
 var enemyAttack = 12;
-
 // fight function
 var fight = function() {
   // Alert players that they are starting the round
